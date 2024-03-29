@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <script>
+            age = 20
+            if (age <= 20)
+            document.write{"not eligible to vote"}
+            else if (age >= 20)
+            document.write("eligible to vote")
+        else 
+        document.write("child")
+    var grade = D
+    switch(grade)
+    case 'A':doucument.write{excellent}
+    case 'B':doucument.write{good}
+    case 'C':document.write{bad}
+    case 'D':document.write(worst)
+          </script>
+            </body>
+            </html>
